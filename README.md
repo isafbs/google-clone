@@ -26,4 +26,4 @@ In this project I focused on building a recreation of the Google home page. It c
 The main objective of this project was to learn how to use HTML5 and CSS3 tags.
 
 ## ✨ 4. Link to demo
-Here you can visualize my finished project: [Google clone](#)
+Here you can visualize my finished project: [Google clone](https://calm-nougat-8434ba.netlify.app/)
